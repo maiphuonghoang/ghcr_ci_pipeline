@@ -43,3 +43,6 @@ Git commit tricks of the previous days (past commit history)
 showing you the first option
 
 I am making another commit
+
+
+second option
