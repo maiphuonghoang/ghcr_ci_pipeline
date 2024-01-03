@@ -10,6 +10,6 @@ Here you can find list of videos making session notes
 
 [] Write a github workflow for building and pushing docker image to ghcr
 
-[] Talk about how to create a PAT token
+[x] Talk about how to create a PAT token
 
 [] Show the workflow result
