@@ -17,3 +17,4 @@ Here you can find list of videos making session notes
 ## Verify Your Git Commits
 
 [x] How to verify git commits
+sldhflncflfnslc
