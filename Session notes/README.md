@@ -16,4 +16,4 @@ Here you can find list of videos making session notes
 
 ## Demo the git verified commits
 
-- [x] Sign your commits with ssh keys
+- [x] Demo the sign your commits with ssh keys
