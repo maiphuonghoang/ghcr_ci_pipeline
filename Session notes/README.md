@@ -12,11 +12,8 @@ Here you can find list of videos making session notes
 
 [x] Talk about how to create a PAT token
 
-[x] Show the workflow result
+[] Show the workflow result
 
-## Verify Your Git Commits
+## Demo the git verified commits
 
-:information_ok: Demo the verified commit
-
-dummy testing change
-testing
+- [x] Sign your commits with ssh keys
