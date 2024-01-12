@@ -46,6 +46,7 @@ jobs:
                 docker buildx inspect
                 cd django/webapp
                 docker buildx build \
+                --platform linux/arm64,linux/amd64 \
                 -t ${{ env.GITHUB_REGISTRY }}/${{ github.repository_owner }}/demo-youtube-video:${{ github.sha }} \
                 -f Dockerfile \
                 --push .
