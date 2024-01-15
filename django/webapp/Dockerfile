@@ -13,7 +13,7 @@ ENV PROJECT_DIR /opt/web_app
 
 WORKDIR ${PROJECT_DIR}
 
-COPY Pipfile Pipfile.lock ${PROJECT_DIR}
+COPY Pipfile Pipfile.lock ${PROJECT_DIR}/
 
 RUN apt-get update && python -m pip install --no-cache-dir --upgrade pip && \
     pip install --no-cache-dir pipenv && \
