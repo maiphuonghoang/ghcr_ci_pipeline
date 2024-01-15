@@ -29,4 +29,4 @@ EXPOSE 8080
 
 # Run the application
 # you can run with gunicorn; perhaps will show in later videos
-CMD ["pipenv", "run", "python", "manage.py", "runserver", "127.0.0.1:8080"]
+CMD ["pipenv", "run", "python", "manage.py", "runserver", "0.0.0.0:8080"]
