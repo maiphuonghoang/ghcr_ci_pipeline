@@ -39,3 +39,5 @@ git status tricks
 ## Day Eight
 
 Git commit tricks of the previous days (past commit history)
+
+showing you the first option
