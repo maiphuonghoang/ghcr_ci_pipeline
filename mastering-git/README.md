@@ -13,3 +13,5 @@ In order to master git skills we will learn everyday one trick. The idea is to k
 ## Day three
 
 Adding some content for the demo
+
+Some more content
