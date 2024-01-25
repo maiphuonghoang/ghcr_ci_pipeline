@@ -38,12 +38,4 @@ git status tricks
 
 ## Day Eight
 
-Git commit tricks
-How to commit for XYZ given date
-I am making some demo right now
-
-testing another one
-Let me make some changes
-testing one more
-
-testing one more
+Git commit tricks of the previous days (past commit history)
