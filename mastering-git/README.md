@@ -38,4 +38,5 @@ git status tricks
 
 ## Day Eight
 
-Git add tricks with patch
+Git commit tricks
+How to commit for XYZ given date
