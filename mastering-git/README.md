@@ -39,10 +39,10 @@ git status tricks
 ## Day Eight
 
 Git commit tricks of the previous days (past commit history)
-
 showing you the first option
-
 I am making another commit
-
-
 second option
+
+## Day Nine
+
+Why do not we see the green colored box in commit history after pushing a commit to remote branch
