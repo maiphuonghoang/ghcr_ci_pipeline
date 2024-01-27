@@ -55,4 +55,4 @@ How to reset the author for the most recent commit (for a single commit)
 
 ## Day 11
 
-How to reset for multiple commits from the commit history
+How to reset author for multiple commits from the commit history
