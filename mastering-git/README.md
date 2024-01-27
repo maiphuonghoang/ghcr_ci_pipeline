@@ -48,3 +48,11 @@ second option
 Why do not we see the green colored box in commit history after pushing a commit to remote branch
 
 I make another change.
+
+## Day 10
+
+How to reset the author for the most recent commit (for a single commit)
+
+## Day 11
+
+How to reset for multiple commits from the commit history
