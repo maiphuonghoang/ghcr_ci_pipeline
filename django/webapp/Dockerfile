@@ -25,8 +25,8 @@ RUN apt-get update && python -m pip install --no-cache-dir --upgrade pip && \
 # Since we do not have anything at this point
 COPY . ${PROJECT_DIR}
 
-EXPOSE 8080
+EXPOSE 80
 
 # Run the application
 # you can run with gunicorn; perhaps will show in later videos
-CMD ["pipenv", "run", "python", "manage.py", "runserver", "0.0.0.0:8080"]
+CMD ["pipenv", "run", "python", "manage.py", "runserver", "0.0.0.0:80"]
