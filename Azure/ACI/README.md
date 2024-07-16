@@ -60,3 +60,42 @@ Additionally, applications built on Azure Container Apps can dynamically scale b
 - Event-driven processing
 - CPU or memory load
 - Any KEDA-supported scaler
+
+---
+
+## How to authenticate with Azure Container Registry(ACR) using ACR TOKEN
+
+I am going to show you the followings:
+
+- What is a TOKEN?
+- How to create an ACR token?
+- How to grant access?
+- Demo
+
+---
+
+## How to login to ACR exposing a TOKEN
+
+- Show the demo
+
+---
+
+## How to authenticate to Azure Container Registry (ACR) using Service Principal (SP)
+
+- What is service principal?
+- Why do we need one?
+- Demo (SP to authenticate to ACR)
+
+---
+
+## What is SP?
+
+Microsoft Entra ID service principals provide access to Azure resources within your subscription. You can think of a service principal as a user identity for a service, where "service" is any application, service, or platform that needs to access the resources.
+
+You can configure a service principal with access rights scoped only to those resources you specify. Then, configure your application or service to use the service principal's credentials to access those resources.
+
+---
+
+## Why use a service principal?
+
+By using a Microsoft Entra service principal, you can provide scoped access to your private container registry. Create different service principals for each of your applications or services, each with tailored access rights to your registry. And, because you can avoid sharing credentials between services and applications, you can rotate credentials or revoke access for only the service principal (and thus the application) you choose.
