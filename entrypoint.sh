@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "Hello from GHCR.io"
+echo "Hello from GHCR.io!"
