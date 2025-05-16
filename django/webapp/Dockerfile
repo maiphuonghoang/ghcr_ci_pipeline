@@ -1,4 +1,4 @@
-FROM python:3.9-slim
+FROM python:3.13.2-slim
 
 # Prevents writing the pyc files
 # Removes output stream buffering, allowing for more efficient logging
